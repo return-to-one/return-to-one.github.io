@@ -2,47 +2,35 @@
 layout: page
 ---
 
-# About Me
+# 个人简介
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
-
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+张柱，工学博士，现任北京理工大学管理学院副研究员、硕士生导师。已在《MIS Quarterly》（UTD24、FT50期刊）、《INFORMS Journal on Computing》（UTD24期刊）、《Journal of Management Information Systems》（FT50期刊）、《Information & Management》、《管理科学》等国内外顶级或重要学术期刊与会议上发表20余篇论文，其中包括10余篇SCI检索的论文。主持国家自然科学基金面上项目1项，参与了科技部重大专项、中科院C类先导科技专项等10余项国家级和省部级项目。现兼任中国信息经济学会理事、管理科学与工程学会人工智能技术与管理应用研究分会委员等学术职务，担任IJOC、I&M、KBS、ACM TMIS、KAIS、IEEE IS等10余个国际重要期刊审稿人，以及WITS、CSWIM、IEEE ISI、ICSH等多个国际会议的程序委员会成员。
 
 <br>
 
-## Academic Background
+## 教育背景
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+2010.9 – 2015.1，博士，计算机应用技术，中国科学院自动化研究所（导师：曾大军 研究员）
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Visiting)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
+2008.9 – 2010.9，硕士（硕博连读），控制理论与控制工程，中国科学院自动化研究所
 
-<br>
+2004.9 – 2008.6，本科，自动化，浙江大学
 
----
-
-## Research Interests
-
-- Industrial IoT System
-- Bluetooth Low Energy
-- Applied Machine Learning
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 <br>
 
 ---
 
-## News and Updates
+## 研究兴趣
 
-- **Sep 2023：**Our works [DefenderIoT](https://fzuiot.site/) has been officially publicized by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023.
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Visiting Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
-- If you are interested in my works, please feel free to book an [[online talk with me](https://calendly.com/lancecai/meet-with-lance)].
+人工智能与信息管理、大模型的应用、人机混合智能、数据科学等
+
+<br>
+
+---
+
+## 最新消息与更新
+
+- 我团队的1篇论文将在第四届“数据智能与管理”学术会议暨2024年管理科学与工程学会人工智能技术与管理应用分会年会的优秀论文工作坊上口头汇报！
