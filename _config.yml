@@ -37,10 +37,10 @@ links:
     url: /
   #- title: Resume
   # url: /file/CV-HanlinCAI.pdf
-  - title: Publications
-    url: /publications/
   - title: Awards
     url: /awards/
+  - title: Publications
+    url: /publications/
   - title: Fundings
     url: /fundings/
   - title: Service
