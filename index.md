@@ -5,7 +5,7 @@ layout: page
 
 <img src="zhangzhu.jpg" class="floatpic" width="360" height="480">
 
-**张柱**，云南昭通人，工学博士，现任北京理工大学管理学院副研究员、硕士生导师。已在**《MIS Quarterly》（UTD24、FT50期刊）、《INFORMS Journal on Computing》（UTD24期刊）、《Journal of Management Information Systems》（FT50期刊）**、《Information & Management》、《管理科学》等国内外顶级或重要学术期刊与会议上发表20余篇论文，其中包括10余篇SCI检索的论文。主持国家自然科学基金面上项目1项，参与了科技部重大专项、国自科重点项目、中科院C类先导科技专项等10余项国家级和省部级项目。现兼任中国信息经济学会理事、管理科学与工程学会人工智能技术与管理应用研究分会委员等学术职务，担任IJOC、I&M、KBS、ACM TMIS、KAIS、IEEE IS等10余个国际重要期刊审稿人，以及WITS、CSWIM、IEEE ISI、ICSH等多个国际会议的程序委员会成员。
+**张柱**，云南昭通人，工学博士，现任北京理工大学管理学院副研究员、硕士生导师。已在**《MIS Quarterly》（UTD24、FT50期刊）、《INFORMS Journal on Computing》（UTD24期刊）、《Journal of Management Information Systems》（FT50期刊）**、《Information & Management》、《管理科学》等国内外顶级或重要学术期刊与会议上发表20余篇论文，其中包括10余篇SCI检索的论文。主持国家自然科学基金面上项目1项，参与了科技部重大专项、国自科重点项目、中科院C类先导科技专项等10余项国家级和省部级项目。兼任中国信息经济学会理事、管理科学与工程学会人工智能技术与管理应用研究分会委员、国家自然科学基金项目通讯评议专家等近10个学术职务，担任IJOC、I&M、KBS、ACM TMIS、KAIS、IEEE IS等10余个国际重要期刊审稿人，以及WITS、CSWIM、IEEE ISI、ICSH等多个国际会议的程序委员会成员。
 
 <br>
 
