@@ -5,7 +5,7 @@ title: Publications
 ---
 
 
-## 部分代表性论文
+### 部分代表性论文
 
 1.	Xuan Wei, Zhu Zhang*, Mingyue Zhang*（并列通讯作者）, Weiyun Chen, and Daniel Dajun Zeng, “Combining Crowd and Machine Intelligence to Detect False News on Social Media,” MIS Quarterly, vol. 46, no. 2, pp. 977–1008, 2022, doi: 10.25300/MISQ/2022/16256. （管理信息系统top 1期刊，UTD 24期刊）
 2.	Zhu Zhang#, Xuan Wei#（并列一作）, Xiaolong Zheng*, Qiudan Li, and Daniel Dajun Zeng, “Detecting Product Adoption Intentions via Multi-View Deep Learning,” INFORMS Journal on Computing, vol. 34, no. 1, pp. 541–556, Jan. 2022, doi: 10.1287/ijoc.2021.1083.（信息系统顶级期刊，UTD 24期刊）
@@ -20,5 +20,5 @@ title: Publications
 
   <br>
 
----
+
 
