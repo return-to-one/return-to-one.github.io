@@ -7,7 +7,7 @@ title: Service
 
   <br>
 
-## 学术组织兼职
+### 学术组织兼职
 
 1. 中国信息经济学会，理事
 2. 管理学科与工程学会人工智能技术与管理应用研究分会，委员
@@ -20,14 +20,14 @@ title: Service
 
   <br>
 
-## 期刊论文评审
+### 期刊论文评审
 
 INFORMS Journal on Computing, Information & Management, Information Technology and Management, Electronic Commerce Research and Applications, ACM Transactions on Management Information Systems, Knowledge and Information Systems, Journal of Medical Internet Research, IEEE Intelligent Systems, Social Network Analysis and Mining, Frontiers of Computer Science, IEEE Transactions on Computational Social Systems等期刊
 
 
   <br>
 
-## 学术活动
+### 学术活动
 
 - 第14届全国大学生电子商务“创新、创意及创业”挑战赛北京赛区省级选拔赛，评委，2024
 - 中国系统工程学会信息系统工程专业委员会2024学术年会，程序委员会委员，2024
